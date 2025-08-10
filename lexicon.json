@@ -1,0 +1,4071 @@
+[
+  {
+    "lemma": "bC",
+    "pronunciation": "early low strengthening whine",
+    "etymology": null,
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to move (intransitive)"
+    ],
+    "glosses": null,
+    "note": null,
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 1
+    }
+  },
+  {
+    "lemma": "bfb",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "pup",
+      "child"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 2,
+      "created": "2025-01-30T13:21:25Z"
+    }
+  },
+  {
+    "lemma": "bqb",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to win (a game, a prize)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 3,
+      "created": "2025-02-02T01:14:20Z"
+    }
+  },
+  {
+    "lemma": "Bqqb",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to illuminate",
+      "to shine upon"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 4,
+      "created": "2025-01-30T13:31:00Z"
+    }
+  },
+  {
+    "lemma": "Bsl",
+    "pronunciation": "long low weak whine; yip, short low weak grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "diffusely reflective",
+      "bright",
+      "white"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 5
+    }
+  },
+  {
+    "lemma": "CD",
+    "pronunciation": "long rising weakening whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to throw"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 6,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "Fbr",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "walk"
+    ],
+    "glosses": [
+      "walk"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 7,
+      "created": "2025-02-04T18:28:18Z"
+    }
+  },
+  {
+    "lemma": "Fcq",
+    "pronunciation": "late falling strong whine, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "moon",
+      "dwarf planet"
+    ],
+    "note": "Originally `Fc`, and still so in some conservative Partisan dialects or fixed expressions. It was used in the plural often enough that the plural was reinterpreted as a mass noun and then as a singular noun with the new plural being `Fcqql`. One such example of the older usage is the name of the planet and polity Moonlitter <Fcq g sfsf>",
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-24T22:59:24Z",
+      "modified": "2025-06-24T23:08:19Z",
+      "entry_id": 8
+    }
+  },
+  {
+    "lemma": "Fcq g sfsf",
+    "etymology": "from <Fcq> (moon, dwarf planet) + <g> (composed of) + <sfsf> (litter, large group)",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "The planet Moonlitter",
+      "the polity governing that planet"
+    ],
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-24T23:08:49Z",
+      "modified": "2025-06-24T23:12:58Z",
+      "entry_id": 9
+    }
+  },
+  {
+    "lemma": "fDrghr",
+    "pronunciation": "early high weakening whine; chuff, short low strengthening growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "yinrih"
+    ],
+    "glosses": [
+      "yinrih"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 10,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "g",
+    "pronunciation": "short low weak growl",
+    "partOfSpeech": "postposition",
+    "definitions": [
+      "composed of",
+      "made of"
+    ],
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-24T22:53:35Z",
+      "modified": "2025-06-24T22:54:56Z",
+      "entry_id": 11
+    }
+  },
+  {
+    "lemma": "geg(s)-",
+    "pronunciation": "overlong peaking weak growl, yip",
+    "etymology": "Uncertain, but likely related to an old term for the palm or palmar pads, reflecting the state of the paws when counting numbers greater than 12, with all four palms facing outward.",
+    "partOfSpeech": "prefix",
+    "definitions": [
+      "a prefix on numerals to form digits 13-23"
+    ],
+    "note": "the yip is elided or assimilated according to the onset of the following numeral.",
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-07-03T12:18:45Z",
+      "modified": "2025-07-03T12:35:23Z",
+      "entry_id": 12
+    }
+  },
+  {
+    "lemma": "gkg",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to go up"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 13,
+      "created": "2025-01-30T13:52:23Z"
+    }
+  },
+  {
+    "lemma": "Gkq",
+    "pronunciation": "late rising strengthening growl, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to stand on all fours"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 14
+    }
+  },
+  {
+    "lemma": "gqqgh",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "tail",
+      "queue",
+      "tailslength"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 15,
+      "created": "2025-02-04T13:11:27Z"
+    }
+  },
+  {
+    "lemma": "h",
+    "pronunciation": "short low strong growl",
+    "partOfSpeech": "determiner",
+    "definitions": [
+      "gnomic determiner"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 16
+    }
+  },
+  {
+    "lemma": "Jh",
+    "pronunciation": "late falling strengthening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "grass"
+    ],
+    "glosses": [
+      "grass"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 17,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "Jq",
+    "pronunciation": "long high weak growl, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "swing",
+      "brachiate"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 18
+    }
+  },
+  {
+    "lemma": "khj",
+    "pronunciation": "overlong dipping weakening growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "empty"
+    ],
+    "glosses": [
+      "empty"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 19
+    }
+  },
+  {
+    "lemma": "lm",
+    "pronunciation": "short low strengthening grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "float"
+    ],
+    "glosses": [
+      "float"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 20,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "lpl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "tree"
+    ],
+    "glosses": [
+      "tree"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 21,
+      "created": "2025-01-30T13:55:09Z"
+    }
+  },
+  {
+    "lemma": "lqqp",
+    "pronunciation": "short low weak grunt, huff; huff, short high strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to want"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 22
+    }
+  },
+  {
+    "lemma": "Lsc",
+    "pronunciation": "long low weak grunt; yip, short low strong whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "muzzle"
+    ],
+    "glosses": [
+      "muzzle"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 23
+    }
+  },
+  {
+    "lemma": "mp",
+    "pronunciation": "short rising strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to burn"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 24,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "mq-",
+    "partOfSpeech": "prefix",
+    "definitions": [
+      "forms the nomen agentis/patientis of verbs"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 25,
+      "created": "2025-2-1T18:28:02Z"
+    }
+  },
+  {
+    "lemma": "mqsJH",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "student"
+    ],
+    "glosses": [
+      "student"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 26,
+      "created": "2025-02-01T18:25:47Z"
+    }
+  },
+  {
+    "lemma": "mrrBqqb",
+    "pronunciation": "short low strong grunt, chuff; chuff, long low weak whine, huff; huff, short low weak whine",
+    "etymology": "<mq-> (agentive prefox) + <rBqqb> (to heal)",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "healer"
+    ],
+    "glosses": [
+      "healer"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 27
+    }
+  },
+  {
+    "lemma": "N",
+    "pronunciation": "long high strong growl",
+    "partOfSpeech": "adverb",
+    "definitions": [
+      "not"
+    ],
+    "glosses": [
+      "not"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 28
+    }
+  },
+  {
+    "lemma": "NP",
+    "pronunciation": "long high strengthening grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "fly"
+    ],
+    "glosses": [
+      "fly"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 29,
+      "comment": "previously an adverb 'by flying'",
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "Nprrl",
+    "pronunciation": "long high strong grunt, chuff; chuff, short low weak grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "cannot",
+      "be unable to"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 30
+    }
+  },
+  {
+    "lemma": "PLr",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "light"
+    ],
+    "glosses": [
+      "light"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 31,
+      "created": "2025-01-30T13:34:14Z"
+    }
+  },
+  {
+    "lemma": "Pm",
+    "pronunciation": "late falling strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to laugh"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 32,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "prrl",
+    "pronunciation": "short high strong grunt, chuff; chuff, short low weak grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "can",
+      "be able to (verb)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 33
+    }
+  },
+  {
+    "lemma": "qB",
+    "pronunciation": "huff, long low weak whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "old"
+    ],
+    "glosses": [
+      "old"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 34,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qbc",
+    "pronunciation": "huff, short low strengthening whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to hit"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 35,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qbC",
+    "pronunciation": "huff, early low strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "snow (noun)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 36,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qBD",
+    "pronunciation": "huff, long rising weak whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to kill"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 37,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qbf",
+    "pronunciation": "huff, short rising strengthening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "wide"
+    ],
+    "glosses": [
+      "wide"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 38,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qbF",
+    "pronunciation": "huff, early rising strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "fire"
+    ],
+    "glosses": [
+      "fire"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 39,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qBF",
+    "pronunciation": "huff, long rising strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "sky"
+    ],
+    "glosses": [
+      "sky"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 40
+    }
+  },
+  {
+    "lemma": "qbfr",
+    "pronunciation": "huff, short rising strengthening whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to tie"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 41,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qbr",
+    "pronunciation": "huff, short low weak whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to say"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 42,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qCB",
+    "pronunciation": "huff, long low weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "back (anatomy)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 43,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qcf",
+    "pronunciation": "huff, short rising strong whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to go down (move with gravity)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 44,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qcof",
+    "pronunciation": "huff, overlong rising troughing whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "small"
+    ],
+    "glosses": [
+      "small"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 45,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qdBq",
+    "pronunciation": "huff, early falling weak whine, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to sew"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 46,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qDbq",
+    "pronunciation": "huff, late falling weak whine, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "big"
+    ],
+    "glosses": [
+      "big"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 47,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qdc",
+    "pronunciation": "huff, short falling strengthening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "two"
+    ],
+    "glosses": [
+      "two"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 48,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qDC",
+    "pronunciation": "huff, long falling strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "head"
+    ],
+    "glosses": [
+      "head"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 49,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qdf",
+    "pronunciation": "huff, short high strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "fur"
+    ],
+    "glosses": [
+      "fur"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 50,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qDF",
+    "pronunciation": "huff, long high strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "leg"
+    ],
+    "glosses": [
+      "leg"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 51,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qdr",
+    "pronunciation": "huff, short high weak whine, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "near"
+    ],
+    "glosses": [
+      "near"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 52,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qfc",
+    "pronunciation": "huff, short falling strong whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "lactation patch"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 53,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qFD",
+    "pronunciation": "huff, long high weakening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "cold"
+    ],
+    "glosses": [
+      "cold"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 54,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qg",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to go to",
+      "to move to a location"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 55,
+      "created": "2025-02-04T18:26:28Z"
+    }
+  },
+  {
+    "lemma": "qGH",
+    "pronunciation": "huff, long low strengthening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "rope"
+    ],
+    "glosses": [
+      "rope"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 56,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qghrh",
+    "pronunciation":"huff, short low strengthening growl; chuff, short low strong growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "duty",
+      "obligation"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 57,
+      "created": "2025-01-31T01:37:06Z"
+    }
+  },
+  {
+    "lemma": "qGJ",
+    "pronunciation": "huff, long rising weak growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "bone"
+    ],
+    "glosses": [
+      "bone"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 58,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qGJq",
+    "pronunciation": "huff, long rising weak growl, huff",
+    "partOfSpeech": "conjunction",
+    "definitions": [
+      "if"
+    ],
+    "glosses": [
+      "if"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 59,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qjhr",
+    "pronunciation": "huff, short falling strengthening growl, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "long"
+    ],
+    "glosses": [
+      "long"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "comment":"formerly qGjqqjhr",
+      "entry_id": 60,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qgjr",
+    "pronunciation": "huff, short rising weak growl, chuff",
+    "partOfSpeech": "postposition",
+    "definitions": [
+      "with",
+      "and (when joining noun phrases)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "created": "2025-05-04T23:33:00Z",
+      "modified": "2025-07-03T12:45:19Z",
+      "entry_id": 61
+    }
+  },
+  {
+    "lemma": "qgk",
+    "pronunciation": "huff, short rising strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to count"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 62,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qgkq",
+    "pronunciation": "huff, short rising strengthening growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "narrow"
+    ],
+    "glosses": [
+      "narrow"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 63,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qgkqd",
+    "pronunciation": "huff, short rising strengthening growl; huff, short high weak whine",
+    "etymology": "Cognate with Commonthroat (tree dweller)",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "A stupid person"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 64
+    }
+  },
+  {
+    "lemma": "qGq",
+    "pronunciation": "huff, long low weak growl, huff",
+    "etymology": "The plural of <qG> (the palm or sole of the paw)",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "twenty four"
+    ],
+    "note": "The word is transparently the plural of qG (palm), but can itself be pluralized to refer to multiple groups of 24 qGqql",
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-07-03T12:36:15Z",
+      "modified": "2025-07-03T12:40:06Z",
+      "entry_id": 65
+    }
+  },
+  {
+    "lemma": "qH",
+    "pronunciation": "huff, long low strong growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "float (move like a liquid)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 66,
+      "comment": "previously an adverb 'by floating'",
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qhGr",
+    "pronunciation": "huff, early low weakening growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "guts",
+      "viscera"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 67,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qHgr",
+    "pronunciation": "huff, late low weakening growl, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to cut"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 68,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qhj",
+    "pronunciation": "huff, short rising weakening growl",
+    "partOfSpeech": "conjunction",
+    "definitions": [
+      "and"
+    ],
+    "glosses": [
+      "and"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 69,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qhkr",
+    "pronunciation": "huff, short rising strong growl, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "warm (adjective)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 70,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qjg",
+    "pronunciation": "huff, short falling weak growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "wet"
+    ],
+    "glosses": [
+      "wet"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 71,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qJGq",
+    "pronunciation": "huff, long falling weak growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "sharp"
+    ],
+    "glosses": [
+      "sharp"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 72,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qjh",
+    "pronunciation": "huff, short falling strengthening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "sun"
+    ],
+    "glosses": [
+      "sun"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 73,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qjK",
+    "pronunciation": "huff, early high strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to wash"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 74,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qJkq",
+    "pronunciation": "huff, late high strengthening growl, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "rhinarium (wet tip of the nose)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 75,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qkg",
+    "pronunciation": "huff, short falling weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "fog"
+    ],
+    "glosses": [
+      "fog"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 76,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qkj",
+    "pronunciation": "huff, short high weakening growl",
+    "partOfSpeech": "adverb",
+    "definitions": [
+      "there"
+    ],
+    "glosses": [
+      "there"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 77,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qKJ",
+    "pronunciation": "huff, long high weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "female"
+    ],
+    "glosses": [
+      "female"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 78,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qlem",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to smell like",
+      "to feel an emotion"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 79,
+      "created": "2025-2-1T20:56:10Z"
+    }
+  },
+  {
+    "lemma": "qLM",
+    "pronunciation": "huff, long low strengthening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "liver (analogous organ)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 80,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qLN",
+    "pronunciation": "huff, long rising weak grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "day"
+    ],
+    "glosses": [
+      "day"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 81,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qlpr",
+    "pronunciation": "huff, short rising strengthening grunt, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to rub"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 82,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qlr",
+    "pronunciation": "huff, short low weak grunt, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to pull"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 83,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qm",
+    "pronunciation": "huff, short low strong grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "name"
+    ],
+    "glosses": [
+      "name"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 84,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qmLq",
+    "pronunciation": "huff, early low weakening grunt, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to exhale through the nose (\"kiss\")"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 85,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qmnr",
+    "pronunciation": "huff, short rising weakening grunt, chuff",
+    "partOfSpeech": "postposition",
+    "definitions": [
+      "in"
+    ],
+    "glosses": [
+      "in"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 86,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qmqf",
+    "pronunciation": "huff, short low strong grunt; huff, short high strong whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "road"
+    ],
+    "glosses": [
+      "road"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "created": "2025-06-30T22:52:40Z",
+      "modified": "2025-06-30T22:54:04Z",
+      "entry_id": 87
+    }
+  },
+  {
+    "lemma": "qMqm",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "human (noun)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 88,
+      "created": "2025-01-30T13:48:09Z"
+    }
+  },
+  {
+    "lemma": "qN",
+    "pronunciation": "huff, long high weak grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "wind"
+    ],
+    "glosses": [
+      "wind"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 89,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qNL",
+    "pronunciation": "huff, long falling weak grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "smooth"
+    ],
+    "glosses": [
+      "smooth"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 90,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qnlr",
+    "pronunciation": "huff, short falling weak grunt, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "male"
+    ],
+    "glosses": [
+      "male"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 91,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qnm",
+    "pronunciation": "huff, short falling strengthening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "ink"
+    ],
+    "glosses": [
+      "ink"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 92,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qnq",
+    "pronunciation": "huff, short high weak grunt, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "night"
+    ],
+    "glosses": [
+      "night"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 93,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qp",
+    "pronunciation": "huff, short high strong grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "dim",
+      "dark"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 94,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qPL",
+    "pronunciation": "huff, long falling weakening grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "good"
+    ],
+    "glosses": [
+      "good"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 95,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qPlr",
+    "pronunciation": "huff, late falling weakening grunt, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to live"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 96,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qPLrl",
+    "pronunciation": "huff, long falling weakening grunt; chuff, short low weak grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to stuff",
+      "to fill to bursting"
+    ],
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-20T19:45:58Z",
+      "modified": "2025-06-20T19:54:16Z",
+      "entry_id": 97
+    }
+  },
+  {
+    "lemma": "qPM",
+    "pronunciation": "huff, long falling strong grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "root"
+    ],
+    "glosses": [
+      "root"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 98,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "qpmq",
+    "pronunciation": "huff, short falling strong grunt, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to howl"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 99,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rbc",
+    "pronunciation": "chuff, short low strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "neck"
+    ],
+    "glosses": [
+      "neck"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 100,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rbcq",
+    "pronunciation": "chuff, short low strengthening whine, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "short"
+    ],
+    "glosses": [
+      "short"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 101,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rbd",
+    "pronunciation": "chuff, short rising weak whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "ashes"
+    ],
+    "glosses": [
+      "ashes"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 102,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rBfq",
+    "pronunciation": "chuff, late rising strengthening whine, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to fight"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 103,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rBqqb",
+    "pronunciation": "chuff, long low weak whine, huff; huff, short low weak whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to heal"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 104
+    }
+  },
+  {
+    "lemma": "rC",
+    "pronunciation": "chuff, long low strong whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "five"
+    ],
+    "glosses": [
+      "five"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 105,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rcb",
+    "pronunciation": "chuff, short low weakening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "thick"
+    ],
+    "glosses": [
+      "thick"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 106,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rcd",
+    "pronunciation": "chuff, short rising weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "sire"
+    ],
+    "glosses": [
+      "sire"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 107,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rD",
+    "pronunciation": "chuff, long high weak whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to bite"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 108,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rDC",
+    "pronunciation": "chuff, long falling strengthening whine",
+    "partOfSpeech": "pronoun",
+    "definitions": [
+      "where"
+    ],
+    "glosses": [
+      "where"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 109,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rdcq",
+    "pronunciation": "chuff, short falling strengthening whine, huff",
+    "partOfSpeech": "adverb",
+    "definitions": [
+      "here"
+    ],
+    "glosses": [
+      "here"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 110,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rdCr",
+    "pronunciation": "chuff, early falling strengthening whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to lie down on the belly (sploot)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 111,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rf",
+    "pronunciation": "chuff, short high strong whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "walk"
+    ],
+    "glosses": [
+      "walk"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 112,
+      "comment": "previously an adverb",
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rFC",
+    "pronunciation": "chuff, long falling strong whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to lick"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 113,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rfcr",
+    "pronunciation": "chuff, short falling strong whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to perch"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 114,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rfD",
+    "pronunciation": "chuff, early high weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "leaf"
+    ],
+    "glosses": [
+      "leaf"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 115,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rG",
+    "pronunciation": "chuff, long low weak growl",
+    "partOfSpeech": "conjunction",
+    "definitions": [
+      "because"
+    ],
+    "glosses": [
+      "because"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 116,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rGh",
+    "pronunciation": "chuff, late low strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to hold"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 117,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rGH",
+    "pronunciation": "chuff, long low strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to turn"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 118,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rGJ",
+    "pronunciation": "chuff, long rising weak growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "lake"
+    ],
+    "glosses": [
+      "lake"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 119,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rgjq",
+    "pronunciation": "chuff, short rising weak growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "round"
+    ],
+    "glosses": [
+      "round"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 120,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rgk",
+    "pronunciation": "chuff, short rising strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to die"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 121,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rGqscD",
+    "pronunciation": "chuff, long low weak growl, huff; yip, early rising weakening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "rotten"
+    ],
+    "glosses": [
+      "rotten"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 122,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rh",
+    "pronunciation": "chuff, short low strong growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to think"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 123,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rhgr",
+    "pronunciation": "chuff, short low weakening growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "earth"
+    ],
+    "glosses": [
+      "earth"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 124,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rHK",
+    "pronunciation": "chuff, long rising strong growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to be in torpor"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 125,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rhkr",
+    "pronunciation": "chuff, short rising strong growl, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to swell"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 126,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rj",
+    "pronunciation": "chuff, short high weak growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "meat"
+    ],
+    "glosses": [
+      "meat"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 127,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rjgq",
+    "pronunciation": "chuff, short falling weak growl, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to scratch"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 128,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rJGr",
+    "pronunciation": "chuff, long falling weak growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "belly"
+    ],
+    "glosses": [
+      "belly"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 129,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rjhqdc",
+    "pronunciation": "chuff, short falling strengthening growl; huff, short falling strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "water"
+    ],
+    "glosses": [
+      "water"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 130,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rjHr",
+    "pronunciation": "chuff, early falling strengthening growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "tooth"
+    ],
+    "glosses": [
+      "tooth"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 131,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rjK",
+    "pronunciation": "chuff, early high strengthening growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "thin"
+    ],
+    "glosses": [
+      "thin"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 132,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rk",
+    "pronunciation": "chuff, short high strong growl",
+    "partOfSpeech": "adverb",
+    "definitions": [
+      "how"
+    ],
+    "glosses": [
+      "how"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 133,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rkg",
+    "pronunciation": "chuff, short falling weakening growl",
+    "etymology": "Derived from <rKG> (paw)",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "six"
+    ],
+    "glosses": [
+      "six"
+    ],
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-05-04T23:33:00Z",
+      "modified": "2025-07-03T12:00:35Z",
+      "entry_id": 134
+    }
+  },
+  {
+    "lemma": "rKG",
+    "pronunciation": "chuff, short falling weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "paw"
+    ],
+    "glosses": [
+      "paw"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "created": "2025-07-03T11:58:26Z",
+      "modified": "2025-07-03T11:58:33Z",
+      "entry_id": 135
+    }
+  },
+  {
+    "lemma": "rkhk",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "cleric"
+    ],
+    "glosses": [
+      "cleric"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 136,
+      "created": "2025-02-01T18:12:28Z"
+    }
+  },
+  {
+    "lemma": "rkJ",
+    "pronunciation": "chuff, early high weakening growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "full"
+    ],
+    "glosses": [
+      "full"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 137,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rKj",
+    "pronunciation": "chuff, late high weakening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to vomit"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 138,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rl",
+    "pronunciation": "chuff, short low weak grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to know"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 139,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rLM",
+    "pronunciation": "chuff, long low strengthening grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "few"
+    ],
+    "glosses": [
+      "few"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 140,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rmlq",
+    "pronunciation": "chuff, short low weakening grunt, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "left (direction)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 141,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rmn",
+    "pronunciation": "chuff, short rising weakening grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to pant"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 142,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rMn",
+    "pronunciation": "chuff, late rising weakening grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "three"
+    ],
+    "glosses": [
+      "three"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 143,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rmnr",
+    "pronunciation": "chuff, short rising weakening grunt, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "far"
+    ],
+    "glosses": [
+      "far"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 144,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rMp",
+    "pronunciation": "chuff, late rising strong grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "stone"
+    ],
+    "glosses": [
+      "stone"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 145,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rMPq",
+    "pronunciation": "chuff, long rising strong grunt, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "ear"
+    ],
+    "glosses": [
+      "ear"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 146,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rMr",
+    "pronunciation": "chuff, long low strong grunt, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to eat"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 147,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rN",
+    "pronunciation": "chuff, long high weak grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "mountain"
+    ],
+    "glosses": [
+      "mountain"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 148,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rnLr",
+    "pronunciation": "chuff, early falling weak grunt, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "joint (anatomy)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 149,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rNp",
+    "pronunciation": "chuff, late high strengthening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "dust"
+    ],
+    "glosses": [
+      "dust"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 150,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rNpr",
+    "pronunciation": "chuff, late high strengthening grunt, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "correct"
+    ],
+    "glosses": [
+      "correct"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 151,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rnr",
+    "pronunciation": "chuff, short high weak grunt, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "throat"
+    ],
+    "glosses": [
+      "throat"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 152,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rP",
+    "pronunciation": "chuff, long high strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to give"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 153,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rpap",
+    "pronunciation": "chuff, overlong dipping strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to hear"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 154,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rpl",
+    "pronunciation": "chuff, short falling weakening grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to breathe"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 155,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rPl",
+    "pronunciation": "chuff, late falling weakening grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to come"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 156,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rPL",
+    "pronunciation": "chuff, long falling weakening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "forest"
+    ],
+    "glosses": [
+      "forest"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 157,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rpLr",
+    "pronunciation": "chuff, early falling weakening grunt, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "tongue"
+    ],
+    "glosses": [
+      "tongue"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 158,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "rpm",
+    "pronunciation": "chuff, short falling strong grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "year"
+    ],
+    "glosses": [
+      "year"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 159,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sb",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to be a kind of (something)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 160,
+      "created": "2025-02-01T17:40:22Z"
+    }
+  },
+  {
+    "lemma": "sbcq",
+    "pronunciation": "yip, short low strengthening whine, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "ice"
+    ],
+    "glosses": [
+      "ice"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 161,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sbd",
+    "pronunciation": "yip, short rising weak whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "skin"
+    ],
+    "glosses": [
+      "skin"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 162,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sbDr",
+    "pronunciation": "yip, early rising weak whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to split"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 163,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sbf",
+    "pronunciation": "yip, short rising strengthening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "mouth"
+    ],
+    "glosses": [
+      "mouth"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 164,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sBfr",
+    "pronunciation": "yip, late rising strengthening whine, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "salt"
+    ],
+    "glosses": [
+      "salt"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 165,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "scb",
+    "pronunciation": "yip, short low weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "cloud"
+    ],
+    "glosses": [
+      "cloud"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 166,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "scbr",
+    "pronunciation": "yip, short low weakening whine, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "smoke"
+    ],
+    "glosses": [
+      "smoke"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 167,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sCfr",
+    "pronunciation": "yip, late rising strong whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to lie on the back"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 168,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "scsc",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "happy"
+    ],
+    "glosses": [
+      "happy"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 169,
+      "created": "2025-02-01T21:07:11Z"
+    }
+  },
+  {
+    "lemma": "sd",
+    "pronunciation": "yip, short high weak whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "straight"
+    ],
+    "glosses": [
+      "straight"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 170,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sdB",
+    "pronunciation": "yip, early falling weak whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to fear"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 171,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sDc",
+    "pronunciation": "yip, late falling strengthening whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "other"
+    ],
+    "glosses": [
+      "other"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 172,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sDF",
+    "pronunciation": "yip, long high strengthening whine",
+    "partOfSpeech": "postposition",
+    "definitions": [
+      "at"
+    ],
+    "glosses": [
+      "at"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 173,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sdFr",
+    "pronunciation": "yip, early high strengthening whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to squeeze"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 174,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sdr",
+    "pronunciation": "yip, short high weak whine, chuff",
+    "partOfSpeech": "pronoun",
+    "definitions": [
+      "when"
+    ],
+    "glosses": [
+      "when"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 175,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sDr",
+    "pronunciation": "yip, long high weak whine, chuff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to push"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 176,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sfb",
+    "pronunciation": "yip, short falling weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "heart (analogous organ)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 177,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sFb",
+    "pronunciation": "yip, late falling weakening whine",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "sea"
+    ],
+    "glosses": [
+      "sea"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 178,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sfc",
+    "pronunciation": "yip, short falling strong whine",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to dig"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 179,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sfDr",
+    "pronunciation": "yip, early high weakening whine, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "star"
+    ],
+    "glosses": [
+      "star"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 180,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sfq",
+    "pronunciation": "yip, short high strong whine, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to stand (on the hind feet)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 181,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sfsf",
+    "pronunciation": "yip, short high strong whine; yip, short high strong whine",
+    "etymology": "Onomatopoeic of the preverbal yips made by kits",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "litter",
+      "a large collection of specific objects or people",
+      "a gaggle",
+      "flock"
+    ],
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-24T22:55:17Z",
+      "modified": "2025-06-24T22:58:58Z",
+      "entry_id": 182
+    }
+  },
+  {
+    "lemma": "sG",
+    "pronunciation": "yip, long low weak growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to swim"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 183,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sgegsJGq",
+    "pronunciation": "yip, overlong peaking weak growl; yip, long falling weak growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "some"
+    ],
+    "glosses": [
+      "some"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 184,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sGJ",
+    "pronunciation": "yip, long rising weak growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to wipe"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 185,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sgsf",
+    "pronunciation": "yip, short low weak growl; yip, short high strong whine",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "alone"
+    ],
+    "glosses": [
+      "alone"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 186
+    }
+  },
+  {
+    "lemma": "sH",
+    "pronunciation": "yip, long low strong growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "bark (of a tree)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 187,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sheg",
+    "pronunciation": "yip, overlong peaking weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "seed"
+    ],
+    "glosses": [
+      "seed"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 188,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "shg",
+    "pronunciation": "yip, short low weakening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to lap"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 189,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "shJ",
+    "pronunciation": "yip, early rising weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "stick"
+    ],
+    "glosses": [
+      "stick"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 190,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "shjq",
+    "pronunciation": "yip, short rising weakening growl, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "digit"
+    ],
+    "glosses": [
+      "digit"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 191,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "shk",
+    "pronunciation": "yip, short rising strong growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "fat (noun)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 192,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sHK",
+    "pronunciation": "yip, long rising strong growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "claw"
+    ],
+    "glosses": [
+      "claw"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 193,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "shq",
+    "pronunciation": "yip, short low strong growl, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "egg"
+    ],
+    "glosses": [
+      "egg"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 194,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sJ",
+    "pronunciation": "yip, long high weak growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "many"
+    ],
+    "glosses": [
+      "many"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 195,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sjGq",
+    "pronunciation": "yip, early falling weak growl, huff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "fruit"
+    ],
+    "glosses": [
+      "fruit"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 196,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sJGq",
+    "pronunciation": "yip, long falling weak growl, huff",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to squat (sit like a dog)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 197,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sjgr",
+    "pronunciation": "yip, short falling weak growl, chuff",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "sand"
+    ],
+    "glosses": [
+      "sand"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 198,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sjh",
+    "pronunciation": "yip, short falling strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to stab"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 199,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sjH",
+    "pronunciation": "yip, early falling strengthening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "dam"
+    ],
+    "glosses": [
+      "dam"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 200,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sJH",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to study"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 201,
+      "created": "2025-02-01T18:19:09Z"
+    }
+  },
+  {
+    "lemma": "sk",
+    "pronunciation": "yip, short high strong growl",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "new"
+    ],
+    "glosses": [
+      "new"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 202,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "skg",
+    "pronunciation": "yip, short falling weakening growl",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "blood"
+    ],
+    "glosses": [
+      "blood"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 203,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "skgq",
+    "pronunciation": "yip, short falling weakening growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "bad"
+    ],
+    "glosses": [
+      "bad"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 204,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "skGq",
+    "pronunciation": "yip, early falling weakening growl, huff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "heavy"
+    ],
+    "glosses": [
+      "heavy"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 205,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sKGr",
+    "pronunciation": "yip, long falling weakening growl, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "dirty"
+    ],
+    "glosses": [
+      "dirty"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 206,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sKH",
+    "pronunciation": "yip, long falling strong growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to hunt"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 207,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "skhrJH",
+    "pronunciation": "yip, short falling strong growl; chuff, long falling strengthening growl",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to freeze"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 208,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sL",
+    "pronunciation": "yip, long low weak grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to play"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 209,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "slp",
+    "pronunciation": "yip, short rising strengthening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "eye"
+    ],
+    "glosses": [
+      "eye"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 210,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sm",
+    "pronunciation": "yip, short low strong grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "river"
+    ],
+    "glosses": [
+      "river"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 211,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "smn",
+    "pronunciation": "yip, short rising weakening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "rain (noun)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 212,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sMN",
+    "pronunciation": "yip, long rising weakening grunt",
+    "partOfSpeech": "pronoun",
+    "definitions": [
+      "what"
+    ],
+    "glosses": [
+      "what"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 213,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "smnr",
+    "pronunciation": "yip, short rising weakening grunt, chuff",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "right (direction)",
+      "the right (not left) side of something"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 214,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sMP",
+    "pronunciation": "yip, long rising strong grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "four"
+    ],
+    "glosses": [
+      "four"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 215,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sn",
+    "pronunciation": "yip, short high weak grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "planetary ring"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 216,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sN",
+    "pronunciation": "yip, long high weak grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "dry (adjective)"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 217,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "snan",
+    "pronunciation": "yip, overlong dipping weak grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "sacred",
+      "untouchable",
+      "set apart",
+      "(medicine) quarantined",
+      "confidential"
+    ],
+    "note": "While the word does cover the semantics of the English word _sacred_, it also has neutral and negative meanings. Something or someone can be \"set apart\" for any number of reasons, not just because they are holy.",
+    "metadata": {
+      "tags": [
+        "tw_to_json"
+      ],
+      "created": "2025-06-30T22:42:41Z",
+      "modified": "2025-06-30T23:56:27Z",
+      "entry_id": 218
+    }
+  },
+  {
+    "lemma": "snl",
+    "pronunciation": "yip, short falling weak grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "one"
+    ],
+    "glosses": [
+      "one"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 219,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sp",
+    "pronunciation": "yip, short high strong grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "all"
+    ],
+    "glosses": [
+      "all"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 220,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sPL",
+    "pronunciation": "yip, long falling weakening grunt",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "animal"
+    ],
+    "glosses": [
+      "animal"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 221,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "spm",
+    "pronunciation": "yip, short falling strong grunt",
+    "partOfSpeech": "verb",
+    "definitions": [
+      "to write"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 222,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "sPM",
+    "pronunciation": "yip, long falling strong grunt",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "dull"
+    ],
+    "glosses": [
+      "dull"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 223,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "spr",
+    "pronunciation": "yip, short high strong grunt, chuff",
+    "partOfSpeech": "pronoun",
+    "definitions": [
+      "who"
+    ],
+    "glosses": [
+      "who"
+    ],
+    "metadata": {
+      "tags": [
+        "excel_to_tw",
+        "tw_to_json"
+      ],
+      "entry_id": 224,
+      "created": "2025-05-04T23:33:00Z"
+    }
+  },
+  {
+    "lemma": "mrrBqqbsd",
+    "etymology": "<mq-> (agentive prefix) + <rBqqb> (to heal) + -sd (object focus)",
+    "partOfSpeech": "noun",
+    "definitions": [
+      "medical patient"
+    ],
+    "metadata": {
+      "entry_id": 225,
+      "created": "2025-08-02T18:21:32.002Z"
+    }
+  },
+  {
+    "lemma": "qdrmnr",
+    "pronunciation": "huff, short high weak whine; chuff, short falling weakening grunt, chuff",
+    "etymology": "<qdr> (near) + <rmnr> (far)",
+    "partOfSpeech": "adjective",
+    "definitions": [
+      "(of a problem) seeming at first to possess a trivial solution but in reality being very difficult to solve",
+      "(of a problem) normally trivial to solve but made impossible by one or more circumstances surrounding the issue"
+    ],
+    "metadata": {
+      "entry_id": 226,
+      "created": "2025-08-03T15:41:02.174Z"
+    }
+  },
+  {
+    "lemma": "geh",
+    "pronunciation": "overlong peaking strengthening growl",
+    "partOfSpeech": "adverb",
+    "definitions": [
+      "truly",
+      "surely",
+      "amen"
+    ],
+    "glosses": [
+      "amen"
+    ],
+    "metadata": {
+      "entry_id":227,
+      "created": "2025-08-04T21:16:59.584Z"
+    }
+  },
+  {
+    "lemma": "rFCr",
+    "pronunciation": "chuff, long falling strong whine, chuff",
+    "etymology":"related to <rfcr> (to perch)",
+    "partOfSpeech": "noun",
+    "definitions":[
+      "perch, a piece of furnature upon which a yinrih lies on the belly with the paws and tail hanging freely",
+      "(figurative) a locus of power"
+    ],
+    "glosses":[
+      "perch",
+      "chair"
+    ],
+    "metadata":{
+      "created":"2025-08-08T16:45:19.604Z",
+      "entry_id":228
+    }
+  },
+  {
+    "lemma":"qJHr",
+    "pronunciation":"huff, long falling strengthening growl, chuff",
+    "etymology":"related to <qjhr> (long)",
+    "partOfSpeech":"noun",
+    "definitions":[
+      "length",
+      "the axis of an object which measures the longest"
+    ],
+    "metadata": {
+      "entry_id": 229,
+      "created":"2025-08-08T17:26:01.309Z"
+    }
+  },
+  {
+    "lemma":"cBqm",
+    "pronunciation":"early low weakening whine; huff, short low weak grunt",
+    "partOfSpeech":"noun",
+    "definitions": [
+      "a main thurrofare",
+      "the main axis of an orbital colony",
+      "main street",
+      "(figurative) the path of least resistance",
+      "(computer networking) a trunk line"
+    ],
+    "metadata":{
+      "entry_id":230,
+      "created":"2025-08-08T17:34:13.850Z"
+    }
+  },
+  {
+    "lemma": "sPsP",
+    "pronunciation":"yip, long high strong grunt; yip, long high strong grunt",
+    "partOfSpeech":"verb",
+    "definitions":[
+      "seek, look for",
+      "inquire upon",
+      "ask for (someone)"
+    ],
+    "metadata":{
+      "entry_id":231,
+      "created":"2025-08-08T17:43:23.021Z"
+    }
+  }
+]
